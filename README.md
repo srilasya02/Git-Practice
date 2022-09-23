@@ -2,7 +2,9 @@
 
 ##complete git commands practice in 2 hours
 
-hi
+hi..This is Lasya 
+
+I am practicing git
 
 
 
